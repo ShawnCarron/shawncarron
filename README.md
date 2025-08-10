@@ -1,16 +1,56 @@
-## Hi there 👋
+# Sales Operations/Data Analyst | Turning Data into Decisions
 
+Hi, I’m Shawn Carron a Sales Operations Specialist/Data Analyst passionate about finding stories in numbers, building dashboards that people actually use, and solving problems with practical insights.
+
+---
+
+## About Me
+- Sales Operations Specialist — improving sales workflows, pipeline visibility, and performance tracking     
+- Data Storyteller — translating raw data into practical insights
+- Toolbox — SQL, Excel, Python, Power BI, Sharepoint  
+- Data Wrangling — cleaning, transforming, and validating messy datasets  
+- Collaboration — comfortable working with stakeholders across technical and non-technical teams  
+- Learning — currently exploring DAX and Pandas and to level up analysis
+
+---
+
+## Tech Stack
+
+| **Category**           | **Tools / Skills** |
+|------------------------|--------------------|
+| Data Analysis          | Python (Pandas, NumPy), Excel |
+| Visualization          | Power BI, Matplotlib, Seaborn |
+| Databases & Querying   | SQL (MySQL, PostgreSQL, SQL Server) |
+| Sales Operations Tools | CRM Optimization, Zoho, Quoter, KPI Dashboards |
+| Other Skills           | Data Cleaning, KPI Tracking, Business Analysis |
+
+---
 <!--
-**ShawnCarron/shawncarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+### 1. Sales Performance Dashboard
+*Power BI* — Designed a dynamic dashboard for tracking monthly sales, highlighting top products, and identifying underperforming regions.  
+[View Project](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 2. Customer Churn Prediction
+*Python + scikit-learn* — Built a predictive model to identify customers at risk of churn, improving retention strategies.  
+[View Project](#)
+
+---
+
+### 3. Data Cleaning Automation
+*Python + Pandas* — Created a script that automates cleaning and formatting of raw CSV data, reducing manual work by 80%.  
+[View Project](#)
+
+---
+
+## Let’s Connect
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- **Email:** your.email@example.com  
+- **Portfolio:** [yourportfolio.com](#)  
+
+---
 -->
+*"Data is the new oil, but it’s useless without refining — that’s where we come in."*
