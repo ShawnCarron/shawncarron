@@ -7,7 +7,7 @@ Hi, I’m Shawn Carron a Sales Operations Specialist/Data Analyst passionate abo
 ## About Me
 - Sales Operations Specialist — improving sales workflows, pipeline visibility, and performance tracking     
 - Data Storyteller — translating raw data into practical insights
-- Toolbox — SQL, Excel, Python, Power BI, Sharepoint  
+- Toolbox — SQL, Excel, R, Power BI, Tableau  
 - Data Wrangling — cleaning, transforming, and validating messy datasets  
 - Collaboration — comfortable working with stakeholders across technical and non-technical teams  
 - Learning — currently exploring DAX and Tableau to level up analysis
