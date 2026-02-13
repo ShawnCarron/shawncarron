@@ -18,11 +18,11 @@ Hi, I’m Shawn Carron a Sales Operations Specialist/Data Analyst passionate abo
 
  **Category**           | **Tools / Skills** |
 |------------------------|--------------------|
-| Data Analysis          | Python (Pandas, NumPy), Excel |
-| Visualization          | Power BI, Tableau, Matplotlib, Seaborn |
-| Databases & Querying   | SQL (MySQL, PostgreSQL, SQL Server) |
+| Data Analysis          | Excel, Power Query, R |
+| Visualization          | Power BI, Tableau, R (ggplot2) |
+| Databases & Querying   | SQL (MySQL, PostgreSQL) |
 | Sales Operations Tools | CRM Optimization, Zoho, Quoter, KPI Dashboards |
-| Other Skills           | Data Cleaning, KPI Tracking, Forecasting, Business Analysis |
+| Other Skills           | Data Cleaning, KPI Tracking, Data Governance, Business Analysis |
 
 ---
 <!--
