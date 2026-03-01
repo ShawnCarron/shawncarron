@@ -17,12 +17,12 @@ Hi, I’m Shawn Carron a Sales Operations Specialist/Data Analyst passionate abo
 ## Tech Stack
 
  **Category**           | **Tools / Skills** |
-|------------------------|--------------------|
-| Data Analysis          | Excel, Power Query, R |
-| Visualization          | Power BI, Tableau, R (ggplot2) |
-| Databases & Querying   | SQL (MySQL, PostgreSQL) |
-| Sales Operations Tools | CRM Optimization, Zoho, Quoter, KPI Dashboards |
-| Other Skills           | Data Cleaning, KPI Tracking, Data Governance, Business Analysis |
+|-------------------------|--------------------|
+| Data Analysis           | Excel, Power Query, R, SQL |
+| Visualization           | Power BI, Tableau, R (ggplot2) |
+| Databases & Querying    | SQL (MySQL, PostgreSQL) |
+| Sales Operations Skills | CRM Optimization, Zoho, Quoter, KPI Dashboards |
+| Other Skills            | Data Cleaning, KPI Tracking, Data Governance, Business Analysis |
 
 ---
 <!--
