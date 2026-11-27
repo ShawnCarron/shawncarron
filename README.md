@@ -35,7 +35,7 @@ Hi, I’m Shawn Carron — a Sales Operations & Data Analyst driven by data gove
 
 ### 2. Sales Funnel Conversion & Drop-Off Analysis
 *SQL (MySQL)* — Modeled event-based conversion rates over a rolling 30-day window using CTEs and conditional aggregation to evaluate traffic source performance and pinpoint stage-to-stage pipeline bottlenecks.  
-[View Project](https://github.com)
+[View Project](https://github.com/ShawnCarron/dataAnalytics/tree/main/sales-funnel-sql)
 
 ---
 
