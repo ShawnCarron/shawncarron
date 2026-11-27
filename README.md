@@ -29,7 +29,7 @@ Hi, I’m Shawn Carron — a Sales Operations & Data Analyst driven by data gove
 
 ### 1. SMB Data Governance Catalog & SQL Schema Extractor
 *Excel (`XLOOKUP`, `COUNTIFS`) + SQL* — Built an 8-tab relational data governance framework to track business assets, upstream/downstream lineage, and PIPEDA privacy compliance, paired with automated `INFORMATION_SCHEMA` queries to extract database metadata and flag PII fields.  
-[View Project](https://github.com)
+[View Project](https://github.com/ShawnCarron/dataAnalytics/tree/main/Data-Governance)
 
 ---
 
